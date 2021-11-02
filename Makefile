@@ -1,4 +1,3 @@
-# basename "$PWD"
 venv:
 	@python3 -m virtualenv .venv
 	@echo "\n--------------------"
