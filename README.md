@@ -29,6 +29,11 @@ make test
 make lint
 ```
 
+And if you have any doubts, you can check the `help` command:
+```shell
+make help
+```
+
 ---
 
 Made by [Lucas Reis](https://github.com/llucasreis)
